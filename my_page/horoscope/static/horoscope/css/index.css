@@ -1,0 +1,39 @@
+
+
+ul {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    list-style-type: none;
+    background-color: #4B0082;
+    width: 90%;
+    max-width: 35rem;
+    border-radius: 20px;
+    margin: 2rem auto;
+    padding: 1px;
+}
+
+ul li {
+    text-align: center;
+    width: 100%;
+    font-size: 3rem;
+    padding: 2rem 1rem;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ul a:hover, ul a:active {
+  border-bottom: 3px solid #ff00a4;
+}
+
+
+h1 {
+    color: #000000;
+    text-align: center;
+    font-family: "Andale Mono", AndaleMono, monospace;
+    font-size: 48px;
+    text-decoration: underline;
+}

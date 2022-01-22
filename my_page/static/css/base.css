@@ -1,0 +1,29 @@
+
+html{
+    background-color: #ffffff;
+}
+
+nav {
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    position:fixed;
+    top:0;
+    width:100%;
+    height:auto;
+    left: 0;
+    background-color: #4B0082;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+nav a {
+    color: #ffffff;
+    font-size: 1 rem;
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover, ul a:active {
+  border-bottom: 3px solid #ff00a4;
+}
