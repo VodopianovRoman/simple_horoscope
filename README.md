@@ -16,4 +16,4 @@
   ------------
   
   With the help of the reguests library, a get request is sent to the site. 
-  The received information is transferred to bs4, after which the forecast is transferred from the view to the url.
+  The received information is transferred to bs4, after which the horoscope is transferred from the view to the url.
